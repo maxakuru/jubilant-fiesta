@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://raw.githubusercontent.com/iansk/franklin-md/main
+  /: 
+    url: https://raw.githubusercontent.com/iansk/franklin-md/main/
+    type: markdown
