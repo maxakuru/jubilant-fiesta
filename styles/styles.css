@@ -244,5 +244,5 @@ main .section.highlight {
 }
 
 main .section.test {
-  display: none;
+  display: block;
 }
